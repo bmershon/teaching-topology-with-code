@@ -1,6 +1,6 @@
 # Teaching Topology with Code
 
-This paper was written as part of a final project for MATH 412: Computational Topology, taught by Paul Bendich during the Falll 2014 semester at Duke University.
+This [paper](https://github.com/bmershon/teaching-topology-with-code/blob/master/teaching_topology_with_code.pdf) was written as part of a final project for MATH 412: Computational Topology, taught by Paul Bendich during the Falll 2014 semester at Duke University.
 
 ## Abstract
 
